@@ -12,7 +12,7 @@ Instafeed.js \
 Formspree API
 
 ## Pictures & Live Version
-You can visit a live version of this website [here](eyang2020.github.io).
+You can visit a live version of this website [here](https://eyang2020.github.io/).
 
 ![Banner1](https://i.imgur.com/c1h9iTh.png)
 ![Banner2](https://imgur.com/hQazw9d.png)
